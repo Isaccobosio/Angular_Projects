@@ -4,7 +4,9 @@ This is my folder of angular projects
 ## Clonazione della cartella su un altro dispositivo
 Clonare la cartella.
 Successivamente tramite linea di comando digitare
+
 npm install
+
 npm start
 
 ## Altre info importanti
